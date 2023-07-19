@@ -1,0 +1,38 @@
+_repo: Meren-kasvojen-edessa_71137
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kailas, Uuno
+    birthdate: 1901
+    deathdate: 1933
+    gutenberg_agent_id: '4250'
+    url: http://www.gutenberg.org/2009/agents/4250
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Uuno_Kailas
+    - https://fi.wikipedia.org/wiki/Uuno_Kailas
+creator:
+  author:
+    agent_name: Mörne, Arvid
+    alias: Morne, Arvid
+    birthdate: 1876
+    deathdate: 1946
+    gutenberg_agent_id: '49095'
+    url: http://www.gutenberg.org/2009/agents/49095
+    wikipedia: https://sv.wikipedia.org/wiki/Arvid_M%C3%B6rne
+description: ''
+gutenberg_issued: '2023-07-07'
+identifiers:
+  gutenberg: '71137'
+language: fi
+pgterms:marc905: 20221125054815mrne
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bHolger Schildtin kustannusosakeyhtiö, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Meren kasvojen edessä
+url: http://www.gutenberg.org/ebooks/71137
