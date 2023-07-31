@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Uuno_Kailas
     - https://fi.wikipedia.org/wiki/Uuno_Kailas
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mörne, Arvid
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49095
     wikipedia: https://sv.wikipedia.org/wiki/Arvid_M%C3%B6rne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71137#Meren-kasvojen-edessa
 gutenberg_issued: '2023-07-07'
 identifiers:
   gutenberg: '71137'
